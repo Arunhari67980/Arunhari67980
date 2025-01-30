@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning BE in computer science engineering<br>🎯 Goals: To become a inevitable web developer<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning BE in computer science engineering<br>🎯 Goals: To become an inevitable web developer<br>🎲 Fun fact: ...</p>
 
 ###
 
