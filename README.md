@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning BE in computer science engineering<br>🎯 Goals: To become an inevitable web developer<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning BE in computer science engineering<br>🎯 Goals: To become an inevitable web developer<br>🎲 Fun fact: My code works perfectly… until I demo it 😅.</p><br>
+<p>💻 Tech Stack: HTML | CSS | JavaScript | React | Node.js | MongoDB</p><br>
+<p>🚀 Currently building: Simple web apps & e-commerce projects</p><br>
+<p>🌐 Portfolio: https://arunhari67980.github.io/portfolio/</p><br>
+<p>🤝 Open to: Collaborations & internship opportunities</p><br>
 
 ###
 
