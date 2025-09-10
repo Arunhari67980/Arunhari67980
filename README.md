@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arun and I'm a web development intern, from kanyakumari</p><br>
+<p align="left">Myself Arun and I'm a web development intern, from kanyakumari</p><br>
 
 ###
 
