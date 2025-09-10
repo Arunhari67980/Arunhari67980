@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1><br>
 
 ###
 
-<p align="left">My name is Arun and I'm a web development intern, from kanyakumari</p>
+<p align="left">My name is Arun and I'm a web development intern, from kanyakumari</p><br>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me</h2><br>
 
 ###
 
