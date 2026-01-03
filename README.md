@@ -76,10 +76,9 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arunhari678">
+  <a href="https://www.linkedin.com/in/arunhari678" style="margin-right:15px";>
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a> 
-  <br>
   <a href="mailto:arunhari67890@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
