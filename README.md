@@ -78,7 +78,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/arunhari678">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
+  </a> 
+  <br>
   <a href="mailto:arunhari67890@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
