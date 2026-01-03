@@ -1,52 +1,89 @@
-# Hey 👋 What's up? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<h1 align="center">Hi 👋, I'm Arun</h1>
 
-### About Me
-I’m Arun, a web development intern from Kanyakumari, creating bugs since 2024! 🎉  
-- 📚 Pursuing BE in Computer Science Engineering  
-- 🎯 Aspiring to become an inevitable web developer  
-- 🎲 Fun fact: My code works—until the demo! 😅  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=Web+Development+Intern;Frontend+Developer+in+Progress;React+%7C+JavaScript+%7C+Tailwind;Creating+bugs+since+2024" />
+</p>
 
-### Tech Stack
-| Language/Framework       | Proficiency | Tools                  |
-|--------------------------|-------------|-------------------------|
-| HTML, CSS, JavaScript    | Intermediate| VS Code, Git            |
-| React, Node.js           | Beginner    | Webpack, npm            |
-| MongoDB                  | Beginner    | Postman                 |
-| TypeScript, Next.js      | Exploring   | Jest, Storybook         |
-
-### Current Focus
-- 🚀 Building: Simple web apps & e-commerce projects  
-- 🌐 [Portfolio](https://arunhari67980.github.io/portfolio/)  
-- 🤝 Open to: Collaborations & internship opportunities  
-
-### I Code With
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest" />
-</div>
-
-### Projects
-| Project Name         | Description                  | Status       | Link              |
-|----------------------|------------------------------|--------------|-------------------|
-| Personal Portfolio   | Responsive web portfolio     | Completed    | [View](https://arunhari67980.github.io/portfolio/) |
-| E-commerce Demo      | Basic e-commerce layout      | In Progress  | [Repo](https://github.com/Arunhari67980/ecommerce-demo) |
-
-### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunhari67980&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunhari67980&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages" />
-</div>
-
-### Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Email](mailto:arun@example.com)  
+<!-- MATRIX ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-*Last updated: October 26, 2025*
+## 🧑‍💻 About Me
+
+🎓 BE CSE Student  
+💻 Web Development Intern from **Kanyakumari, India**  
+🎯 Aspiring **inevitable web developer**
+
+- 🛠️ HTML, CSS, JavaScript (Strong)
+- ⚛️ React, Node.js (Learning)
+- 😄 Fun fact: *My code works… until the demo*
+
+---
+
+## 🧠 Currently Learning (Auto-Updated)
+
+<!--START_SECTION:learning-->
+- ⚛️ Advanced React patterns (hooks, composition)
+- 🎨 Tailwind CSS design systems
+- 🌐 API integration & async workflows
+- 🧪 Component testing with Jest & Storybook
+<!--END_SECTION:learning-->
+
+> ⏳ *This section auto-updates via GitHub Actions*
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,mongodb,ts,git,github,vscode,jest&theme=dark" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arunhari67980&theme=matrix&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph (Animated)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arunhari67980&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunhari67980&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunhari67980&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:arun@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer"/>
+</p>
+
+⭐ **Always learning. Always building.**
