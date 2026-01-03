@@ -9,9 +9,15 @@
   <img src="https://komarev.com/ghpvc/?username=Arunhari67980&label=Profile%20Views&color=00FF41&style=flat" />
 </p>
 
-<!-- Matrix / Snake Animation -->
+---
+
+## 📊 GitHub Stats (Stable)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Arunhari67980&show_icons=true&hide_border=true&theme=radical&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
@@ -37,21 +43,21 @@
 
 ## 🌟 Highlights
 
-- 🚀 Built **responsive web applications** using HTML, CSS & JavaScript  
-- ⚛️ Hands-on experience with **React component-based architecture**  
-- 🎨 Focused on **clean UI, reusability & design consistency**  
-- 🧠 Actively learning **advanced React patterns & Tailwind CSS**  
-- 🤝 Working experience as a **Web Development Intern**  
-- 📈 Consistently improving through **real-world projects & GitHub commits**
+- 🚀 Built **responsive web applications**
+- ⚛️ Experience with **React component-based architecture**
+- 🎨 Focus on **clean UI & reusability**
+- 🧠 Actively learning **advanced React & Tailwind**
+- 🤝 Working as a **Web Development Intern**
+- 📈 Improving through **real projects**
 
 ---
 
 ## 🧠 Currently Learning
 
-- ⚛️ Advanced React patterns (hooks, composition)
-- 🎨 Tailwind CSS design systems
-- 🌐 API integration & async workflows
-- 🧪 Component testing with Jest & Storybook
+- React Hooks & patterns  
+- Tailwind CSS  
+- API integration  
+- Component testing basics  
 
 ---
 
@@ -66,18 +72,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arunhari67980&theme=matrix&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Arunhari67980&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" 
-    alt="GitHub Stats"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arunhari67980&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -94,9 +89,5 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer"/>
-</p>
 
 ⭐ **Always learning. Always building.**
