@@ -9,15 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=Arunhari67980&label=Profile%20Views&color=00FF41&style=flat" />
 </p>
 
----
-
-## 📊 GitHub Stats (Stable)
-
+<!-- Matrix / Snake Animation -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Arunhari67980&show_icons=true&hide_border=true&theme=radical&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -43,21 +37,21 @@
 
 ## 🌟 Highlights
 
-- 🚀 Built **responsive web applications**
-- ⚛️ Experience with **React component-based architecture**
-- 🎨 Focus on **clean UI & reusability**
-- 🧠 Actively learning **advanced React & Tailwind**
-- 🤝 Working as a **Web Development Intern**
-- 📈 Improving through **real projects**
+- 🚀 Built **responsive web applications** using HTML, CSS & JavaScript  
+- ⚛️ Hands-on experience with **React component-based architecture**  
+- 🎨 Focused on **clean UI, reusability & design consistency**  
+- 🧠 Actively learning **advanced React patterns & Tailwind CSS**  
+- 🤝 Working experience as a **Web Development Intern**  
+- 📈 Consistently improving through **real-world projects & GitHub commits**
 
 ---
 
 ## 🧠 Currently Learning
 
-- React Hooks & patterns  
-- Tailwind CSS  
-- API integration  
-- Component testing basics  
+- ⚛️ Advanced React patterns (hooks, composition)
+- 🎨 Tailwind CSS design systems
+- 🌐 API integration & async workflows
+- 🧪 Component testing with Jest & Storybook
 
 ---
 
@@ -72,10 +66,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arunhari67980&theme=matrix&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arunhari67980&theme=matrix&no-frame=true&row=1&column=7" />
 </p>
 
----
+
 
 ## 🤝 Connect With Me
 
@@ -89,5 +83,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer"/>
+</p>
 
 ⭐ **Always learning. Always building.**
