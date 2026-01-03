@@ -75,37 +75,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arunhari678">
-    <img 
-      src="https://skillicons.dev/icons?i=linkedin"
-      height="44"
-      style="
-        border-radius:50%;
-        padding:6px;
-        background:#0a66c2;
-        margin:0 14px;
-        transition:transform 0.3s ease, box-shadow 0.3s ease;
-      "
-      onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 12px #0a66c2';"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
-    />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:arunhari67890@gmail.com">
-    <img 
-      src="https://skillicons.dev/icons?i=gmail"
-      height="44"
-      style="
-        border-radius:50%;
-        padding:6px;
-        background:#ea4335;
-        margin:0 14px;
-        transition:transform 0.3s ease, box-shadow 0.3s ease;
-      "
-      onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 12px #ea4335';"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
-    />
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
   </a>
 </p>
+
 
 ---
 
