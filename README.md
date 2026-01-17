@@ -63,11 +63,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arunhari67980&theme=matrix&no-frame=true&row=1&column=7" />
-</p>
+
+
 
 
 
