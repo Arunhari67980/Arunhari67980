@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Mee
 
 🎓 BE Computer Science Engineering student  
-💻 Web Development Intern from **Kanyakumari, India**  
+💻 Web Development Intern from **Tamilnadu, India**  
 🎯 Aspiring **inevitable web developer**
 
 - 🛠️ Strong in **HTML, CSS, JavaScript**
