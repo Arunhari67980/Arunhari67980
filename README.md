@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Mee
 
 🎓 BE Computer Science Engineering student  
 💻 Web Development Intern from **Kanyakumari, India**  
