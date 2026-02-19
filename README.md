@@ -4,7 +4,7 @@
 
 🎓 BE Computer Science Engineering student  
 💻 Frontend Development Intern from **Tamilnadu, India**  
-🎯 Aspiring ***inevitable web developer**
+🎯 Aspiring ***inevitable web developer***
 
 - 🛠️ Strong in **HTML, CSS and using chatgpt**
 - ⚛️ Learning **React & Node.js**
