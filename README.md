@@ -8,7 +8,7 @@
 
 - 🛠️ Strong in **HTML, CSS and using chatgpt**
 - ⚛️ Learning **React & Node.js**
-- 😄 Fun fact: *My code works… until the demo*
+- 😄 Fun fact: *My code works, until the demo*
 
 - Just a beginner
 
