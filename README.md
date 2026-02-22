@@ -10,5 +10,5 @@
 - ⚛️ Learning **React & Node.js**
 - 😄 Fun fact: *My code works, until the demo*
 
-- Just a beginner **
+- **Just a beginner **
 
