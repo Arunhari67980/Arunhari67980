@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 BE Computer Science Engineering student  
+🎓 BE Computer Science Engineering student in Stella Marys College Of Engineering 
 💻 Frontend Development Intern from ***Tamilnadu, India***  
 🎯 Aspiring ***inevitable web developer***
 
