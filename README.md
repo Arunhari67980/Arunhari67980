@@ -7,7 +7,7 @@
 🎯 Aspiring ***inevitable web developer***
 
 - 🛠️ Strong in **HTML, CSS and using chatgpt**
-- ⚛️ Learning **React & Node.js**
+- ⚛️ Learning **React & tailwind.css**
 - 😄 Fun fact: *My code works, until the demo*
 
 - **Just a beginner **
