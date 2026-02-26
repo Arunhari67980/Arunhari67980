@@ -4,7 +4,7 @@
 
 🎓 BE in Computer Science Engineering at Stella Marys College Of Engineering 
 💻 Frontend Development Intern from ***Tamilnadu, India***  
-🎯 Aspiring ***inevitable web developer***
+🎯 Aspiring ***inevitable Frontend-web developer***
 
 - 🛠️ Strong in **HTML, CSS and using chatgpt**
 - ⚛️ Learning **React & tailwind.css**
