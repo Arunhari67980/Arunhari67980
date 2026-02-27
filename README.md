@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 
 🎓 BE in Computer Science Engineering at Stella Marys College Of Engineering 
-💻 Frontend Development Intern from ***Tamilnadu, India***  
+💻 Frontend Developer from ***Tamilnadu, India***  
 🎯 Aspiring ***inevitable Frontend-web developer***
 
 - 🛠️ Strong in **HTML, CSS and using chatgpt**
