@@ -8,7 +8,7 @@
 
 - 🛠️ Strong in **HTML, CSS and using chatgpt**
 - ⚛️ Learning **React & tailwind.css**
-- 😄 Fun fact: *My code works, until the demo*
+- 😄 Fun fact: **My code works, until the demo**
 
 - **Just a beginner **
 - **Trying to learn something**
