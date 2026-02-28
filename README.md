@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Mee
 
 🎓 BE in Computer Science Engineering at Stella Marys College Of Engineering 
 💻 Frontend Developer from ***Tamilnadu, India***  
