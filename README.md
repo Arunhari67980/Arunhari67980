@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">Frontend Developer | React & Tailwind Learner | Future UI Architect</h3>
+<h3 align="center">Frontend Developer | React & Tailwind Learner </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;Learning+React+Deeply;Designing+Clean+User+Interfaces;Consistency+Over+Motivation" />
