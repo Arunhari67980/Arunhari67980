@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 🎓 **B.E Computer Science Engineering**  
-🏫 Stella Mary’s College of Engineering  
+🏫 Stella Mary’s College of Engineering,Aruthenganvilai  
 
 💻 Frontend Developer from **Tamil Nadu, India**  
 ⚛️ Currently mastering **React & Tailwind CSS**  
