@@ -12,7 +12,7 @@
 🎓 **B.E Computer Science Engineering**  
 🏫 Stella Mary’s College of Engineering  
 
-💻 Frontend Developer from **Tamil Nadu, India 🇮🇳**  
+💻 Frontend Developer from **Tamil Nadu, India**  
 ⚛️ Currently mastering **React & Tailwind CSS**  
 🎯 Goal: To become an *inevitable* Frontend Web Developer  
 
