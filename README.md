@@ -14,7 +14,7 @@
 
 💻 Frontend Developer from **Tamil Nadu, India**  
 ⚛️ Currently mastering **React & Tailwind CSS**  
-🎯 Goal: To become an *inevitable* Frontend Web Developer  
+🎯 Goal: To become an **inevitable** Frontend Web Developer  
 
 💡 I believe:
 > Clean UI + Clear Logic + Consistency = Powerful Web Experience
