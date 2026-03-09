@@ -35,7 +35,7 @@
 - Git & GitHub
 - ChatGPT & Copilot (Productivity Boosters 🚀)
 - Responsive Design
-- Component-Based Architecture
+- Component-Based Architecture for better UI
 
 ---
 
