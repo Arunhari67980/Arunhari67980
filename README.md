@@ -59,7 +59,7 @@
 
 ## 🧠 Developer Mindset
 
-```javascript**
+```**javascript**
 while (!success) {
   learn();
   build();
