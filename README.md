@@ -102,10 +102,13 @@ The code doesn't end until it feels effortless for the user.
 
 <div align="center">
 
-![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunhari67980&show_icons=true&theme=tokyonight&hide_border=true)
+### Contribution Stats
+![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunhari67980&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunhari67980&layout=compact&theme=tokyonight&hide_border=true)
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunhari67980&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css)
 
+### Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arunhari67980&theme=tokyonight&hide_border=true)
 
 </div>
