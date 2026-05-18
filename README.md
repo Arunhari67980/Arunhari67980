@@ -96,5 +96,37 @@ while (!success) {
   repeat();
 }
 
+The code doesn't end until it feels effortless for the user.
+
+📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&#x26;show_icons=true&#x26;theme=tokyonight&#x26;hide_border=true" alt="Arun&#x27;s GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&#x26;layout=compact&#x26;theme=tokyonight&#x26;hide_border=true" alt="Top Languages">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&#x26;theme=tokyonight&#x26;hide_border=true" alt="GitHub Streak">
+
+
+🎯 Future Goals
+
+Become a React & Next.js Specialist
+Contribute to Open Source Projects
+Build impactful products that solve real problems
+Mentor aspiring frontend developers
+
+
+
+"Crafting digital experiences that don't just look good — they feel alive." ✨
+
+
+
+
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="420" alt="coding">
+
+
+
+
+  Thanks for visiting my profile!
+
+  Feel free to connect or explore my repositories. Let's build something amazing together! 🚀
+
 
   
