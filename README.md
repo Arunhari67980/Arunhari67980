@@ -101,17 +101,11 @@ The code doesn't end until it feels effortless for the user.
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunhari67980&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunhari67980&layout=compact&theme=tokyonight&hide_border=true)
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arunhari67980&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunhari67980&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunhari67980&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunhari67980&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 
