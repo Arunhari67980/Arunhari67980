@@ -64,3 +64,43 @@ Tailwind CSS      ████████████████████�
 JavaScript (ES6+) ███████████████████░░░░░  82%
 Responsive Design ████████████████████████  90%
 UI/UX Design      ████████████████░░░░░░░░  75%
+
+
+## 🔥 Currently Leveling Up
+
+<div align="center">
+
+- ⚛️ **Advanced React** — Hooks, Context API, Redux/Zustand, Performance Optimization, Server Components  
+- 🎨 **Design Systems & Scalable Component Architecture**  
+- 🔌 **Seamless API Integration** (REST & GraphQL)  
+- 📱 **Mobile-First & Production-Grade Projects**  
+- ⚡ **Next.js** (Planning to start soon)
+
+</div>
+
+---
+
+## 🚀 Projects I'm Working On
+
+<div align="center">
+
+- 🛍️ **Modern E-commerce Platform** (Advanced filtering, cart, wishlist & checkout)  
+- 📦 **Reusable Component Library** (Tailwind + Storybook style)  
+- ⚡ **Clean & Scalable Frontend Boilerplate** for future projects  
+- 🎨 **Real-world Clone Projects** with enhanced UX/UI (Netflix, Spotify, etc.)
+
+</div>
+
+---
+
+## 🧠 Developer Mindset
+
+```javascript
+while (!success) {
+  learn();
+  build();
+  debug();
+  refactor();
+  improve();
+  repeat();
+}
