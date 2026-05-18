@@ -1,68 +1,120 @@
-<h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">Frontend Developer | React & Tailwind Learner </h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Arun;Frontend+Developer+%7C+React+%26+Tailwind+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;Learning+React+Deeply;Designing+Clean+User+Interfaces;Consistency+Over+Motivation" />
+  <a href="https://github.com/arun"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/arun"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/arun"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;Crafting+Pixel-Perfect+UIs;Mastering+React+%26+Tailwind;Consistency+Over+Motivation;Turning+Ideas+into+Interactive+Reality" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arun/main/assets/wave.gif" width="80" height="80" alt="wave" />
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **B.E Computer Science Engineering**  
-🏫 Stella Mary’s College of Engineering,Aruthenganvilai . 
+<div align="center">
 
-💻 Frontend Developer from **Tamil Nadu, India**  
-⚛️ Currently mastering **React & Tailwind CSS**  
-🎯 Goal: To become an ***inevitable*** Frontend Web Developer  
+**🎓 B.E Computer Science Engineering**  
+**🏫 Stella Mary’s College of Engineering, Aruthenganvilai**  
+**💻 Passionate Frontend Developer from Tamil Nadu, India**
 
-💡 I believe:
-> Clean UI + Clear Logic + Consistency = Powerful Web Experience
+</div>
 
----
+I'm a frontend developer who loves creating **beautiful, responsive, and user-centric web experiences**. Currently deep-diving into **React ecosystem** and **Tailwind CSS** to build production-grade applications.
 
-### 🛠️ Tech Stack
-
-### 🌐 Frontend
-- HTML5
-- CSS3
-- Tailwind CSS
-- JavaScript (ES6+)
-- React (Learning Deeply)
-
-### ⚙️ Tools & Workflow
-- VS Code
-- Git & GitHub
-- ChatGPT & Copilot (Productivity Boosters 🚀)
-- Responsive Design
-- Component-Based Architecture for better UI
+### 💡 My Philosophy
+> **Clean UI + Clear Logic + Consistency = Powerful Web Experience**
 
 ---
 
-## 📚 Currently Learning & Improving
+## 🛠️ Tech Stack
 
-- ⚛️ Advanced React (Hooks, Context API, Performance Optimization)
-- 🎨 UI Systems & Scalable Design Patterns
-- 🔌 API Integration
-- 📱 Production-Level Project Structure
+<div align="center">
+
+### 🌐 **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ **Tools & Workflow**
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
-## 🔥 What I’m Working On
+## 📊 Skills Snapshot
 
-- 🛍️ Modern E-commerce UI Architectures  
-- 📦 Reusable Component Libraries  
-- ⚡ Clean & Scalable Frontend Structures  
-- 🚀 Real-world Clone Projects (Improved Versions)
+```text
+React.js          ████████████████████░░░░  85%
+Tailwind CSS      ████████████████████████  95%
+JavaScript (ES6+) ███████████████████░░░░░  82%
+Responsive Design ████████████████████████  90%
+UI/UX Design      ████████████████░░░░░░░░  75%
 
----
+🔥 Currently Leveling Up
 
-## 🧠 Developer Mindset
 
-```**javascript**
-while (!success) {
+⚛️ Advanced React — Hooks, Context API, Redux/ Zustand, Performance Optimization, Server Components
+🎨 Design Systems & Scalable Component Architecture
+🔌 Seamless API Integration (REST & GraphQL)
+📱 Mobile-First & Production-Grade Projects
+⚡ Next.js (Planning to start soon)
+
+
+
+🚀 Projects I'm Working On
+
+🛍️ Modern E-commerce Platform (with advanced filtering, cart, wishlist & checkout)
+📦 Reusable Component Library (Tailwind + Storybook style)
+⚡ Clean & Scalable Frontend Boilerplate for future projects
+🎨 Real-world Clone Projects with enhanced UX/UI (Netflix, Spotify, etc.)
+
+
+🧠 Developer Mindset
+JavaScriptwhile (!success) {
   learn();
   build();
   debug();
+  refactor();
   improve();
+  repeat();
 }
+The code doesn't end until it feels effortless for the user.
+
+📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&#x26;show_icons=true&#x26;theme=tokyonight&#x26;hide_border=true" alt="Arun&#x27;s GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&#x26;layout=compact&#x26;theme=tokyonight&#x26;hide_border=true" alt="Top Languages">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&#x26;theme=tokyonight&#x26;hide_border=true" alt="GitHub Streak">
+
+
+🎯 Future Goals
+
+Become a React & Next.js Specialist
+Contribute to Open Source Projects
+Build impactful products that solve real problems
+Mentor aspiring frontend developers
+
+
+
+"Crafting digital experiences that don't just look good — they feel alive."
+
+
+
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" alt="coding gif">
+
+Thanks for visiting my profile! Feel free to connect or explore my repositories. Let's build something amazing together! ✨
