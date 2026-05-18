@@ -57,12 +57,13 @@ I'm a frontend developer who loves creating **beautiful, responsive, and user-ce
 ---
 
 ## 📊 Skills Snapshot
-
+```text
 React.js          ████████████████████░░░░  85%
 Tailwind CSS      ████████████████████████  95%
 JavaScript (ES6+) ███████████████████░░░░░  82%
 Responsive Design ████████████████████████  90%
 UI/UX Design      ████████████████░░░░░░░░  75%
+```
 
 ## 🔥 Currently Leveling Up
 
