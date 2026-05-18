@@ -100,9 +100,11 @@ The code doesn't end until it feels effortless for the user.
 
 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arunhari67980&#x26;show_icons=true&#x26;theme=tokyonight&#x26;hide_border=true" alt="Arun&#x27;s GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunhari67980&#x26;layout=compact&#x26;theme=tokyonight&#x26;hide_border=true" alt="Top Languages">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunhari67980&#x26;theme=tokyonight&#x26;hide_border=true" alt="GitHub Streak">
+![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunhari67980&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunhari67980&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arunhari67980&theme=tokyonight&hide_border=true)
 
 
 🎯 Future Goals
